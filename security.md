@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Robotics Skills Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/robotics-skills-suite-updated)
+[![Download Robotics Skills Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/rqjyKAn8M4L8P4EiI)
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">
 
-[![Download Robotics Skills Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/robotics-skills-suite-updated)
+[![Download Robotics Skills Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/rqjyKAn8M4L8P4EiI)
 
 </div>
 
@@ -313,7 +313,7 @@ Build intelligent robots for free. **Robotics Skills Suite Updated** gives you r
 
 <div align="center">
 
-[![Download Robotics Skills Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/robotics-skills-suite-updated)
+[![Download Robotics Skills Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/rqjyKAn8M4L8P4EiI)
 
 **Version 3.1.0** — Free robotics development suite. May 2026 update. Zero cost. No payment.
 
